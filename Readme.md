@@ -22,12 +22,6 @@ This timesheet application is a tablet-based canvas app that gives you a way to 
 ![On-Premises Connectors](https://img.shields.io/badge/On--Premises%20Connectors-No-green.svg "Does not use on-premise connectors")
 ![Custom Connectors](https://img.shields.io/badge/Custom%20Connectors-Not%20Required-green.svg "Does not use custom connectors")
 
-## Authors
-
-Solution|Author(s)
---------|---------
-Timesheet Power App | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://www.twitter.com/aprildunnam) )
-
 ## Version history
 
 Version|Date|Comments
